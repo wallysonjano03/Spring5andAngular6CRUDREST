@@ -1,0 +1,13 @@
+A aplicação foi utilizado das seguintes tecnologias:
+
+
+
+IDE: Java Spring (Ambiente Eclipse) - Implementado aplicação de como criar serviços REST usando o Spring Framework 5 com Spring Boot 2 para um CRUD.
+Front-End: Consumindo Serviços WEB com Angular.
+Foi necessário usar as ferramentas:
+
+Visual Code, Java Spring, node.js, Angular6.
+SGBD: Mysql e Mysql Workbench.
+
+Obs.: No index.html foi utilizado bootstrap e jquery.
+Obs².: Para instalação do Angular e NodeJS foi utilizado o powershell prompt de comando Cmder e via terminal Visual Code.

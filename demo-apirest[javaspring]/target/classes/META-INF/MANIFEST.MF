@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: demo-apirest
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: WaLLySoN
+Implementation-Vendor-Id: com.ronaldarias.apirest
+Build-Jdk: 1.8.0_221
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/demo-apirest
+Created-By: Maven Integration for Eclipse
+
